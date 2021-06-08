@@ -6,6 +6,6 @@ This project was bootstarpped with express, socket.io & node server
 
 this start the socket server on port 4001 ["http://127.0.0.1:4001]("http://127.0.0.1:4001)
 
-this project host on heroku server [https://shubhamsocket.herokuapp.com/](https://shubhamsocket.herokuapp.com/)
+project host on heroku server [https://shubhamsocket.herokuapp.com/](https://shubhamsocket.herokuapp.com/)
 
 # socket-io-server
